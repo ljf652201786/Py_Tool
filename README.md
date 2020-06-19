@@ -8,6 +8,8 @@
 2. 视频分解图片
 3. word批量转pdf
 4. 批量修改文件名
+5. excel转json
+6. html转pdf
 
 
 持续更新。。。
